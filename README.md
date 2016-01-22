@@ -1,0 +1,2 @@
+# emcTEST
+instructions about testing
